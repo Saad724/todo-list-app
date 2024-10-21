@@ -1,0 +1,13 @@
+.todo-card {
+  flex: 1;
+  padding: 20px;
+  cursor: pointer;
+  &:hover {
+    scale: 1.1;
+    transition: 0.2s ease-in-out;
+  }
+
+  .card-para {
+    margin-block: 20px;
+  }
+}
