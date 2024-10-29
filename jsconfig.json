@@ -2,10 +2,11 @@
   "compilerOptions": {
     "baseUrl": ".", // Sets the base URL for module resolution
     "paths": {
-      "@components/*": ["src/components/*"], // Alias for components folder
-      "@utils/*": ["src/utils/*"], // Alias for components folder
-      "@assets/*": ["src/assets/*"], // Alias for components folder
-      "@pages/*": ["src/pages/*"] // Alias for components folder
+      "@components/*": ["src/components/*"],
+      "@utils/*": ["src/utils/*"],
+      "@assets/*": ["src/assets/*"],
+      "@pages/*": ["src/pages/*"],
+      "@slice/*": ["src/slice/*"]
     }
   },
   "exclude": ["node_modules", "dist"] // Exclude these directories from the compiler

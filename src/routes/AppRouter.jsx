@@ -9,6 +9,7 @@ const AppRouter = () => {
     <Routes>
       <Route path="/" element={<TodoList />} />
       <Route path="/create-task" element={<CreateTask />} />
+      <Route path="/edit-task/:id" element={<CreateTask />} />
       <Route path="*" element={<ErrorPage />} />
     </Routes>
   );
