@@ -1,4 +1,5 @@
 # 📋 Todo List Web App
+
 A simple and intuitive web application to manage your daily tasks efficiently. This project helps you create, edit, and organize your to-do lists to boost productivity.
 
 🚀 Features
@@ -33,19 +34,20 @@ The app will be available at http://localhost:5173 by default.
 A working demo of the app can be found here.
 
 💡 Future Enhancements
-. Add user authentication to sync tasks across devices.
-. Implement due dates and reminders for tasks.
-. Add dark mode for better user experience.
-. Integrate with Google Calendar for better task management.
+
+1. Add user authentication to sync tasks across devices.
+2. Implement due dates and reminders for tasks.
+3. Add dark mode for better user experience.
+4. Integrate with Google Calendar for better task management.
 
 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 
-. Fork the repository.
-. Create a new branch: git checkout -b feature-name
-. Commit your changes: git commit -m 'Add feature'
-. Push to the branch: git push origin feature-name
-. Create a pull request.
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature-name
+3. Commit your changes: git commit -m 'Add feature'
+4. Push to the branch: git push origin feature-name
+5. Create a pull request.
 
 💬 Contact
 If you have any questions or suggestions, feel free to reach out at:
