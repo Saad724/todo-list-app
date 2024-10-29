@@ -31,7 +31,7 @@ The app will be available at http://localhost:5173 by default.
    npm run build
 
 📸 Demo
-A working demo of the app can be found here.
+A working demo of the app can be found at https://apptaskify.netlify.app/
 
 💡 Future Enhancements
 
