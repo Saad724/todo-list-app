@@ -1,5 +1,7 @@
-📋 Todo List Web App
+# 📋 Todo List Web App
 A simple and intuitive web application to manage your daily tasks efficiently. This project helps you create, edit, and organize your to-do lists to boost productivity.
+
+==========================================================================================
 
 🚀 Features
 Add Tasks: Quickly add new tasks with descriptions.
