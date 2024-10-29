@@ -1,8 +1,55 @@
-# React + Vite
+📋 Todo List Web App
+A simple and intuitive web application to manage your daily tasks efficiently. This project helps you create, edit, and organize your to-do lists to boost productivity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Add Tasks: Quickly add new tasks with descriptions.
+Edit Tasks: Modify tasks as plans change.
+Responsive Design: Works seamlessly on desktop and mobile.
 
-Currently, two official plugins are available:
+🔧 Tech Stack
+Frontend:
+HTML5, CSS3, JavaScript
+React
+Version Control: Git & GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 How to Use
+
+1. Clone the Repository:
+
+2. Install Dependencies:
+
+If you're using Node.js:
+npm install
+
+3. Run the App:
+   npm start
+
+The app will be available at http://localhost:5173 by default.
+
+4. Build for Production:
+   npm run build
+
+📸 Demo
+A working demo of the app can be found here.
+
+💡 Future Enhancements
+. Add user authentication to sync tasks across devices.
+. Implement due dates and reminders for tasks.
+. Add dark mode for better user experience.
+. Integrate with Google Calendar for better task management.
+
+🤝 Contributing
+Contributions are welcome! Please follow these steps:
+
+. Fork the repository.
+. Create a new branch: git checkout -b feature-name
+. Commit your changes: git commit -m 'Add feature'
+. Push to the branch: git push origin feature-name
+. Create a pull request.
+
+💬 Contact
+If you have any questions or suggestions, feel free to reach out at:
+Email: saadnadeem181@gmail.com
+
+🌟 Acknowledgements
+Special thanks to the open-source community for the tools and inspiration to build this project.
